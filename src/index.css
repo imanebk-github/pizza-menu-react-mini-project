@@ -15,7 +15,7 @@ body {
   color: #252525;
   font-weight: 400;
   background-color: #f7f2e9;
-  border-bottom: 1.6rem solid #ed504b;
+  border-bottom: 1.6rem solid #edc84b;
   min-height: 100vh;
   padding: 3.2rem;
   padding-bottom: 6rem;
@@ -39,7 +39,7 @@ body {
 
 .header h1 {
   /* Non-accessible color */
-  color: #ed504b;
+  color: #edc84b;
   /* color: #af8602; */
 
   text-transform: uppercase;
@@ -58,7 +58,7 @@ body {
   content: "";
   height: 3px;
   width: 4rem;
-  background-color: #ed504b;
+  background-color: #edc84b;
   position: absolute;
   top: calc(50% - 1px);
 }
